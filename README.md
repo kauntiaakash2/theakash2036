@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 <br><br>
 <h1>Contact Me !!</h1>
 <a href ="https://www.linkedin.com/in/akash-agarwal-874641323/" target = "_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<p></p>
+<p>--OR--</p>
 <address>Mail me at akashkauntia2006@gmail.com</address>
