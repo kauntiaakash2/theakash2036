@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 </div>
 <br><br>
 <h1>Contact Me !!</h1>
-<a href ="https://www.linkedin.com/in/vinit-agarwal007/" target = "_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href ="" target = "_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <p>-----------OR-----------</p>
 <address>Mail me at akashkauntia2006@gmail.com</address>
