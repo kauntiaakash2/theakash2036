@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 <h1>Contact Me !!</h1>
 <a href ="https://www.linkedin.com/in/vinit-agarwal007/" target = "_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <p>-----------OR-----------</p>
-<address>Mail me at vinitagarwal.garg@gmail.com</address>
+<address>Mail me at akashkauntia2006@gmail.com</address>
