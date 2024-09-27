@@ -1,4 +1,7 @@
 ## Hi there 👋
+<br><h1>LeetCode C Array Problems</h1>
+<a herf="leetcode.com/problem-list/array/">
+</br>
 <!--
 **theakash2036/theakash2036** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
